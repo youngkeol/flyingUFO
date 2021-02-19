@@ -12,8 +12,8 @@
 <br>
 
 ### 📟게임 화면<br>
-![1_시작화면](https://user-images.githubusercontent.com/41726750/108456745-54f5b280-72b4-11eb-848e-5b66c674170e.png){: width="100" height="100"} <br>
-![title](/img/myImg.png){: width="100" height="100"}
+![1_시작화면](https://user-images.githubusercontent.com/41726750/108456745-54f5b280-72b4-11eb-848e-5b66c674170e.png =250x250)<br>
+
 ![2_스토리](https://user-images.githubusercontent.com/41726750/108456750-58893980-72b4-11eb-8209-fc54a2928a53.png)<br>
 ![3_게임화면](https://user-images.githubusercontent.com/41726750/108456764-6343ce80-72b4-11eb-9f81-5fe8004d468b.png)<br>
 ![4_종료화면](https://user-images.githubusercontent.com/41726750/108456765-6474fb80-72b4-11eb-876f-8c7680686992.png)
