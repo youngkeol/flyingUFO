@@ -1,7 +1,7 @@
 # 날라랄라 UFO 게임
 
 ### 📣소개<br>
-![3_게임화면](https://user-images.githubusercontent.com/41726750/108456823-95553080-72b4-11eb-9119-3d0987c9e1d8.gif)<br>
+![3_게임화면](https://user-images.githubusercontent.com/41726750/109094601-9cb98580-775d-11eb-9a49-3c859c689078.gif)<br>
 미니게임 프로젝트(JAVASCRIPT, CANVAS를 이용한 미니게임프로젝트)<br>
 상하 반향 키를 이용하여 날라오는 미사일을 피하는 게임으로 목숨은 4번 미사일과 충돌하면 게임이 종료!!<br>
 점수는 게임 플레이 시간이 길고, 많은 방향 키를 눌렀을 때 더 많은 점수를 얻음!!<br>
