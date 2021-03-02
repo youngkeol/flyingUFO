@@ -37,10 +37,10 @@
 
 
 ### 🛠사용 기술<br>
-1.html
-2.css
-3.javascript
-4.cavas
+1.html <br>
+2.css <br>
+3.javascript <br>
+4.cavas <br>
 
 <br>
 <br>
